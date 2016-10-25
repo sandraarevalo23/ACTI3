@@ -471,7 +471,7 @@ article :hover {
 	position:absolute;
 	transform:translate(-140px,0px);
 	-webkit-transform:translate(-140px,0px);
-	z-index: 3;
+	
 
 }
 #yeison {
